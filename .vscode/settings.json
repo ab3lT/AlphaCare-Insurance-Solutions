@@ -1,0 +1,8 @@
+{
+  "cSpell.words": [
+    "xgboost"
+  ],
+  "python.analysis.extraPaths": [
+    "./scripts"
+  ]
+}
